@@ -1,0 +1,16 @@
+{
+  "name": "railway-node-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  },
+  "description": "\"# Web\" \r \"# Web\"",
+  "devDependencies": {},
+  "author": ""
+}
